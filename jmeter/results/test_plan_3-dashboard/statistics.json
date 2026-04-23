@@ -1,0 +1,34 @@
+{
+  "highest-gpa request" : {
+    "transaction" : "highest-gpa request",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 236.10000000000002,
+    "medianResTime" : 275.5,
+    "minResTime" : 24.0,
+    "maxResTime" : 394.0,
+    "pct1ResTime" : 394.0,
+    "pct2ResTime" : 394.0,
+    "pct3ResTime" : 394.0,
+    "throughput" : 16.5016501650165,
+    "receivedKBytesPerSec" : 4.318791254125412,
+    "sentKBytesPerSec" : 2.046591377887789
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 10,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 236.10000000000002,
+    "medianResTime" : 275.5,
+    "minResTime" : 24.0,
+    "maxResTime" : 394.0,
+    "pct1ResTime" : 394.0,
+    "pct2ResTime" : 394.0,
+    "pct3ResTime" : 394.0,
+    "throughput" : 16.5016501650165,
+    "receivedKBytesPerSec" : 4.318791254125412,
+    "sentKBytesPerSec" : 2.046591377887789
+  }
+}
