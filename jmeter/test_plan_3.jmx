@@ -23,9 +23,9 @@
         </elementProp>
       </ThreadGroup>
       <hashTree>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="highest-gpa request" enabled="true">
-          <stringProp name="HTTPSampler.domain">${__P(host,localhost)}</stringProp>
-          <stringProp name="HTTPSampler.port">${__P(port,8080)}</stringProp>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="highest-gpa request">
+          <stringProp name="HTTPSampler.domain">localhost</stringProp>
+          <stringProp name="HTTPSampler.port">8080</stringProp>
           <stringProp name="HTTPSampler.protocol">http</stringProp>
           <stringProp name="HTTPSampler.path">/highest-gpa</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
